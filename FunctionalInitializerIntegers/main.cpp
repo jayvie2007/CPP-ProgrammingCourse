@@ -18,7 +18,7 @@ int main(){
     std::cout << "Narrowing Conversion: " << narrowing_conversion_functional << std::endl;
 
     
-    //Check the size of the memory being used using sizeof
+    //Check the size of the memory being used using sizeof 
     std::cout << "size of int " << sizeof(int) << std::endl;
     return 0;
 }
